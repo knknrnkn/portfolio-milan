@@ -16,6 +16,7 @@ body {
     max-width: 1240px;
     /*     width: 70%; */
     margin: 0 auto;
+    padding: 0 5%;
 }
 
 
@@ -305,6 +306,9 @@ hr {
         /* float: left; */
         /* padding: 30px; */
         margin-bottom: 20px;
+    }
+     .about-me>p {
+        font-size: 0.8rem;
     }
     .footer {
         background-color: #305B7F;
